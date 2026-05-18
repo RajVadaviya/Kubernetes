@@ -431,40 +431,6 @@ sudo apt install docker.io -y
 
 ---
 
-# 📌 GitHub Push Commands
-
-Initialize Git:
-
-```bash
-git init
-```
-
-Add files:
-
-```bash
-git add .
-```
-
-Commit:
-
-```bash
-git commit -m "Initial Kubernetes project"
-```
-
-Add GitHub repository:
-
-```bash
-git remote add origin YOUR_GITHUB_REPO_LINK
-```
-
-Push:
-
-```bash
-git push -u origin main
-```
-
----
-
 # 📌 Author
 
 Raj Vadaviya

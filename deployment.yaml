@@ -54,4 +54,3 @@ spec:
 
         # Port exposed by nginx container
         - containerPort: 80
-
